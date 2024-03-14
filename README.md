@@ -1,2 +1,2 @@
 Just C language Room Escape Game
-(not wet compelete)
+(not yet compelete)
